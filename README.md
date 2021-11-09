@@ -1,6 +1,6 @@
 # todo_app
 
-A simple flutter project. In this project I used BloC, Cubit and Repository pattern.
+A simple flutter project. In this project I used Cubit and Repository pattern.
 I used https://jsonplaceholder.typicode.com/ as an API server.
 
 ![TodoScreen](https://i.postimg.cc/Qtr5nkb7/1.jpg) <br/>
